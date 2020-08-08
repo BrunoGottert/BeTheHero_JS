@@ -29,9 +29,7 @@ This project was developed with the following technologies:
 
 🔖 Development Setup:
 
-Prerequisites:
-
-To run this project in the development mode, you'll need to have a basic environment with Yarn, NodeJs and Expo CLI installed.
+Prerequisites: To run this project in the development mode, you'll need to have a basic environment with Yarn, NodeJs and Expo CLI installed.
 
 Cloning the Repository: git clone https://github.com/BrunoGottert/ong_pageinnode
 
