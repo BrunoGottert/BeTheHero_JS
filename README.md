@@ -27,12 +27,13 @@ This project was developed with the following technologies:
 - Celebrate - A joi validation middleware for Express;
 - Intl - Internationalization and localization facilities, including message translation, plurals and genders, date/number.
 
-🔖 Development setup
-Prerequisites
+🔖 Development Setup:
+
+Prerequisites:
+
 To run this project in the development mode, you'll need to have a basic environment with Yarn, NodeJs and Expo CLI installed.
 
-Cloning the Repository
-git clone https://github.com/BrunoGottert/ong_pageinnode
+Cloning the Repository: git clone https://github.com/BrunoGottert/ong_pageinnode
 
 🔖 Installing
  - Back-End
