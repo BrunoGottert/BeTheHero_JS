@@ -27,7 +27,7 @@ This project was developed with the following technologies:
 - Celebrate - A joi validation middleware for Express;
 - Intl - Internationalization and localization facilities, including message translation, plurals and genders, date/number.
 
-🔖 Development Setup:
+🔖 Development Setup
 
 Prerequisites: To run this project in the development mode, you'll need to have a basic environment with Yarn, NodeJs and Expo CLI installed.
 
@@ -57,6 +57,6 @@ Make a push to your branch: git push origin my-feature.
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-Made with ♥ by Bruno Gottert 👋 
-
 ![projeto](https://github.com/BrunoGottert/ong_pageinnode/blob/master/frontend/src/assets/projeto.png)
+
+Made with ♥ by Bruno Gottert 👋 
