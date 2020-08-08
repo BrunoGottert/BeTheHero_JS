@@ -1,4 +1,4 @@
-## BeTheHero
+# BeTheHero
 ## Semana OmniStack 11.0 by RocketSeat 🚀
 
 💻 Project
@@ -48,9 +48,13 @@ In the mobile folder, update the baseURL at src/services/api.js: expo start or y
 🤔 How to contribute
 
 Make a fork;
+
 Create a branck with your feature: git checkout -b my-feature;
+
 Commit changes: git commit -m 'feat: My new feature';
+
 Make a push to your branch: git push origin my-feature.
+
 After merging your receipt request to done, you can delete a branch from yours.
 
 Made with ♥ by Bruno Gottert 👋 
